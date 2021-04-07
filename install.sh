@@ -1,7 +1,7 @@
 #!/bin/sh
 apt update
 apt install -y unzip xvfb libxi6 libgconf-2-4
-apt install -y default-jdk 
+apt install -y default-jdk
 apt install -y curl
 apt install -y python
 apt install -y python-pip
